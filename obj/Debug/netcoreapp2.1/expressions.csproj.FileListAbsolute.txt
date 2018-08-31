@@ -1,0 +1,11 @@
+C:\Users\smith\workspace\csharp\exercises\expressions\bin\Debug\netcoreapp2.1\expressions.deps.json
+C:\Users\smith\workspace\csharp\exercises\expressions\bin\Debug\netcoreapp2.1\expressions.runtimeconfig.json
+C:\Users\smith\workspace\csharp\exercises\expressions\bin\Debug\netcoreapp2.1\expressions.runtimeconfig.dev.json
+C:\Users\smith\workspace\csharp\exercises\expressions\bin\Debug\netcoreapp2.1\expressions.dll
+C:\Users\smith\workspace\csharp\exercises\expressions\bin\Debug\netcoreapp2.1\expressions.pdb
+C:\Users\smith\workspace\csharp\exercises\expressions\obj\Debug\netcoreapp2.1\expressions.csprojAssemblyReference.cache
+C:\Users\smith\workspace\csharp\exercises\expressions\obj\Debug\netcoreapp2.1\expressions.csproj.CoreCompileInputs.cache
+C:\Users\smith\workspace\csharp\exercises\expressions\obj\Debug\netcoreapp2.1\expressions.AssemblyInfoInputs.cache
+C:\Users\smith\workspace\csharp\exercises\expressions\obj\Debug\netcoreapp2.1\expressions.AssemblyInfo.cs
+C:\Users\smith\workspace\csharp\exercises\expressions\obj\Debug\netcoreapp2.1\expressions.dll
+C:\Users\smith\workspace\csharp\exercises\expressions\obj\Debug\netcoreapp2.1\expressions.pdb
